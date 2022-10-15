@@ -1,28 +1,9 @@
 # 👨🏻‍💻 Benson Choong
-<p align="left">
-  <a href="https://github.com/wkchoong?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/wkchoong?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/wkchoong?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/wkchoong?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br />
 
-## 🏆GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=wkchoong&theme=buddhism&no-frame=true&no-bg=false&margin-w=15&column=7" width="720" />
-<img src="https://server.dooboo.io/github-trophies/wkchoong" width="720" />
-
-<br />
-
-
-# 📊GitHub Stats :
-<a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/wkchoong?date=01" width="600" /></a>
-
-
-<br />
-
-# 💻Tech Stack
-
+# 💻Skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
@@ -38,9 +19,18 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+
+## 🏆GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=wkchoong&theme=buddhism&no-frame=true&no-bg=false&margin-w=15&column=7" width="720" />
+<img src="https://server.dooboo.io/github-trophies/wkchoong" width="720" />
+<br />
+
+
+# 📊GitHub Stats :
+<a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/wkchoong?date=01" width="600" /></a>
 <br />
 
 # 🤜🏻 🤛🏻Group
-
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
