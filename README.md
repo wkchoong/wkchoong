@@ -1,13 +1,25 @@
 # 👨🏻‍💻 Benson Choong
-
-<br />
-
 <p align="left">
   <a href="https://github.com/wkchoong?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/wkchoong?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/wkchoong?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/wkchoong?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+
+<br />
+
+## 🏆GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=wkchoong&theme=buddhism&no-frame=true&no-bg=false&margin-w=15&column=7" width="720" />
+<img src="https://server.dooboo.io/github-trophies/wkchoong" width="720" />
+
+<br />
+
+
+# 📊GitHub Stats :
+<a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/wkchoong?date=01" width="600" /></a>
+
+
+<br />
 
 # 💻Tech Stack
 
